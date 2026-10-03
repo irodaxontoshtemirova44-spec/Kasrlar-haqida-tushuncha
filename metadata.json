@@ -1,0 +1,6 @@
+{
+  "name": "Fraction Land - Oddiy Kasrlar",
+  "description": "Interactive 5th-grade fractions learning app with lessons, games, visual fraction models, quizzes, and certificates in Uzbek, Russian, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
